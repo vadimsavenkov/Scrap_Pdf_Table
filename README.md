@@ -1,6 +1,6 @@
 # Scrap_Pdf_Table
 
-Extract table from pdf and save it to Excel
+Extract table from pdf and save it to Excel Spreadsheet
 
 ## Install camelot and Ghostscript
 ## Read pdf and create a dataframe
